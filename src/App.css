@@ -1,0 +1,21 @@
+.btn {
+  transition: background-color 0.4s ease, box-shadow 0.4s ease !important;
+}
+
+.btn:hover {
+  background-color: #d6d6d6 !important;
+  box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.15) !important;
+}
+.todoCard:hover {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.todoCard {
+   transition: all 0.2s !important;
+   font-family: RobotoCustom;
+   font-weight: 500;
+}
+.sendB {
+  width: 100% !important;
+  height: 56px !important;
+}
